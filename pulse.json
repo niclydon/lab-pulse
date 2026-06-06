@@ -1,1 +1,11 @@
-{}
+{
+  "generatedAt": "2026-09-07T02:30:00.321Z",
+  "commitsToday": 13,
+  "decisionsToday": 48,
+  "decisionsLastHour": 13,
+  "runEventsOk24h": 1838,
+  "runEventsFailed24h": 339,
+  "agentsActive24h": 11,
+  "servicesRunning": 20,
+  "evalRuns7d": 146
+}
